@@ -1,5 +1,5 @@
 # scraping_retrosheet
-My python files that scrape data from [Retrosheet](http://www.retrosheet.org/).
+First pass at python files that scrape data from [Retrosheet](http://www.retrosheet.org/).
 
 ### scrape_retrosheet.py
 The file 'scrape_retrosheet.py' downloads every player's page from http://www.retrosheet.org/ and saves the pages either in the 'pitchers' or the 'position_players' folder.
